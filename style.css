@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: #1e140d; /* koyu fon */
+    background-color: #1e140d;
     color: #fff6de;
     display: flex;
     flex-direction: column;
